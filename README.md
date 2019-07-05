@@ -2,15 +2,9 @@
 
 ## Features
 
-Displays a fortune-tweetable (NPM) message on vscode startup or upon command.
-
-For example if there is an image subfolder under your extension project workspace:
-
-\!\[feature X\]\(images/feature-x.png\)
+Displays a fortune-tweetable [NPM](https://www.npmjs.com/package/fortune-tweetable) message on vscode startup or upon command.
 
 ## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
 
 ## Release Notes
 
