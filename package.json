@@ -10,7 +10,8 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.displayFortune"
+		"onCommand:extension.displayFortune",
+		"*"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
