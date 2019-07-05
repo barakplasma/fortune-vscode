@@ -3,6 +3,7 @@
 	"displayName": "fortune-vscode",
 	"description": "fortune teller displayed every time you open a new vs-code window",
 	"version": "0.0.1",
+	"license": "MIT",
 	"engines": {
 		"vscode": "^1.36.0"
 	},
